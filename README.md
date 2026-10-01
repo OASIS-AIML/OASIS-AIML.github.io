@@ -25,6 +25,4 @@ Publish the root of the `main` branch using GitHub Pages in `OASIS-AIML/OASIS-AI
 ## Asset credits
 
 - ACCV 2026: https://accv2026.org/wp-content/uploads/2025/11/ACCV_Color-Logo_2026-1024x245.png
-- BBVisual Lab: https://minhhoai.net/files/BBvisual.png
-- AIML institutional logo: https://scienceandtechnologyaustralia.org.au/profile/aiml/
 - Page design inspired by https://protracer-failure.github.io/

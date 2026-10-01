@@ -251,12 +251,3 @@ footer .container { display:flex; justify-content:space-between; flex-wrap:wrap;
 .oasis-title .title-line { display:block; white-space:nowrap; }
 @media(max-width:680px) { .hero .oasis-title { font-size:clamp(2rem,6.5vw,2.6rem); } .oasis-title .title-line { display:inline; white-space:normal; } .oasis-title .title-line + .title-line::before { content:' '; } }
 
-.institution-logos { display:flex; align-items:center; justify-content:center; gap:24px; margin:23px auto 0; }
-.institution-logos a { text-decoration:none; }
-.lab-brand { display:flex; align-items:center; gap:11px; }
-.lab-brand img { width:62px; height:auto; mix-blend-mode:multiply; }
-.lab-brand span { color:#225e97; font-size:1rem; font-weight:650; letter-spacing:-.02em; }
-.brand-divider { width:1px; height:43px; background:#ded9e5; }
-.aiml-brand { overflow:hidden; display:block; }
-.aiml-brand img { width:250px; height:auto; margin-block:-34px; mix-blend-mode:multiply; }
-@media(max-width:680px) { .institution-logos { gap:15px; margin-top:19px; } .lab-brand { gap:7px; } .lab-brand img { width:46px; } .lab-brand span { font-size:.8rem; } .aiml-brand img { width:180px; margin-block:-24px; } .brand-divider { height:34px; } }
